@@ -6,17 +6,17 @@ A showcase of my All time Best Projects according to that time Learnings
 
 | 📁 Project Name | 🔗 Live Demo | 🕰️ Date Created | 🛠️ Tech Stack | 📌 Status |📁 Folder Link |
 |----------------|--------------|----------------|------------|------------|------------|
-| 📓 NotesNest| [View](https://notesnest-one.vercel.app/)  | May'2025 | Fire Base, React, CRUD, Router, Authentication| 🚧 In Progress | [`link`](./projects/DevNotes) |
+| 📓 NotesNest| [View](https://notesnest-one.vercel.app/)  | May'2025 | Fire Base, React, CRUD, Router, Authentication| 🚧 In Progress | [`link`](./projects/DevNotes) 
 
-| 📃 Text Utils | [View](https://front-end-projects-theta.vercel.app/) | April'2025 | React, JavaScript, LocalStorage, useState | ✅ Completed | [`link`](./projects/text-utils) |
+| 📃 Text Utils | [View](https://front-end-projects-theta.vercel.app/) | April'2025 | React, JavaScript, LocalStorage, useState | ✅ Completed | [`link`](./projects/text-utils) 
 
-| ✅ To-Do App | [View](https://YuvrajTayal1202.github.io/HTML-CSS-JS-Projects/projects/To-Do-list/) | April'2025 | HTML, CSS, JavaScript | ✅ Completed | [`link`](./projects/To-Do-list) |
+| ✅ To-Do App | [View](https://YuvrajTayal1202.github.io/HTML-CSS-JS-Projects/projects/To-Do-list/) | April'2025 | HTML, CSS, JavaScript | ✅ Completed | [`link`](./projects/To-Do-list) 
 
-| ⌚ Stop Watch | [View](https://YuvrajTayal1202.github.io/HTML-CSS-JS-Projects/projects/Stop-Watch/) | April'2025 | HTML, CSS, JavaScript | ✅ Completed | [`link`](./projects/Stop-Watch/) |
+| ⌚ Stop Watch | [View](https://YuvrajTayal1202.github.io/HTML-CSS-JS-Projects/projects/Stop-Watch/) | April'2025 | HTML, CSS, JavaScript | ✅ Completed | [`link`](./projects/Stop-Watch/) 
 
 | 🧃 Grocery Website | [View](https://YuvrajTayal1202.github.io/HTML-CSS-JS-Projects/projects/Grocery) | March'2025 | HTML, CSS | ✅ Completed |
-| [`link`](./projects/Grocery) |
-⚡ Techno | [View](https://YuvrajTayal1202.github.io/HTML-CSS-JS-Projects/projects/techno/index.html) | March'2025 | HTML, CSS | ✅ Completed |[`link`](./projects/techno) |
+| [`link`](./projects/Grocery) 
+⚡ Techno | [View](https://YuvrajTayal1202.github.io/HTML-CSS-JS-Projects/projects/techno/index.html) | March'2025 | HTML, CSS | ✅ Completed |[`link`](./projects/techno) 
 
 _(This table will grow daily as I push more Real time best Projects  here.)_
 <!-- 🧪 Testing
@@ -40,7 +40,7 @@ _(This table will grow daily as I push more Real time best Projects  here.)_
 
 ## 📌 About This Repo
 
-> This isn’t just about building apps — it’s about learning in public and showcasing proof of work. These are my best projects according to that time of learning
+- This isn’t just about building apps — it’s about learning in public and showcasing proof of work. These are my best projects according to that time of learning
 
 ---
 
